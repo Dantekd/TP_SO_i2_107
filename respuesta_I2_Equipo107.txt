@@ -1,3 +1,7 @@
 Altube Renata
 Pizarro Jonathan
 Encina Garcia Dante
+
+a-Actualizas tu repositorio al estado que esté el repo que hice FORK, 
+tocando el boton de "Sync fork to update your branch".
+b-Se puede pero no directamente desde Github
