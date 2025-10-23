@@ -5,3 +5,7 @@ Encina Garcia Dante
 a-Actualizas tu repositorio al estado que esté el repo que hice FORK, 
 tocando el boton de "Sync fork to update your branch".
 b-Se puede pero no directamente desde Github
+c-no se pude actualizar el fork gamma con el alpha ya que no hay relacion directa entre ambos, 
+se puede pero creando un nuevo fork del archivo de ALPHA y trabajando sobre este.
+d-si modifico el mismo archivo de manera simultanea y intento hacer un merge con el fork
+ pueden generarse conflictos entre los contenidos de ambos
