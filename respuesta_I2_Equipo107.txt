@@ -9,3 +9,17 @@ c-no se pude actualizar el fork gamma con el alpha ya que no hay relacion direct
 se puede pero creando un nuevo fork del archivo de ALPHA y trabajando sobre este.
 d-si modifico el mismo archivo de manera simultanea y intento hacer un merge con el fork
  pueden generarse conflictos entre los contenidos de ambos
+e-
+   *agregar cambios de nombre/ip/hora 
+   git init
+   git remote add origin link del repo
+   git add .
+   git commit -m 
+   git push -u origin main
+   *traer cambios del repositorio original
+   git remote add upstream link del repo
+   git fetch upstream
+   git merge upstream/main
+   git push origin main
+   (aveces tuve problemas con archivos y tuve que volver a hacer commit y pushearlo para poder hacer el marge)
+nombres: Jonathan Pizarro, Renata Altube, Encina Dante
